@@ -25,4 +25,4 @@ The data can be further updated at the stage of solution testing and supplemente
 ## Project RoadMap
 During the application development process, we will think through the processes we consider important to overcome to achieve the result. We will put these processes into our roadmap.
 
-![Roadmap 2025](roadmap2025.jpg "2025")
+![Roadmap 2025](roadmap2025.png "2025")
